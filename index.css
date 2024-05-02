@@ -1,0 +1,31 @@
+
+.container{
+    margin-left: 20px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.product_conatiner{
+    width: 100px;
+    height:auto;
+    min-width:230px;
+    border:none;
+    margin: 20px;
+    padding:10px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: #eee4d5;
+}
+.Book_image_card{
+    height:200px;
+    margin-left:40px;
+    margin-top:20px;
+    box-shadow: 1px 0 5px 1px  rgb(159, 158, 158);
+}
+.Like_symbol{
+    height:25px;
+    margin-left:85%;
+    margin-top: -50px;
+
+} 
